@@ -1,4 +1,4 @@
-![AltSch logo](asset\AltSchool-Logo.jpg)
+<img src="asset/AltSchool-Logo.jpg" alt="" style="width: 100px" />
 
 # Assignment One
 
