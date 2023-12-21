@@ -1,4 +1,4 @@
-![AltSch logo](Altschool-Logo.png)
+![AltSch logo](asset\AltSchool-Logo.jpg)
 
 # Assignment One
 
